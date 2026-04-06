@@ -1,3 +1,5 @@
+GRUPO : Caua Furst, João Magalhães, Luiz Guilherme
+
 # TerminalSuporte.ConsoleApp
 As heurísticas de usabilidade foram aplicadas no sistema de forma a melhorar a experiência do usuário e reduzir erros.
 
